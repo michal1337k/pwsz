@@ -1,0 +1,24 @@
+body {
+	font-family: Roboto, sans-serif;
+	background-color: #eee;
+}
+
+#logo {
+	background-color: red;
+}
+
+#menu {
+	background-color: blue;
+}
+
+#sidebar {
+	background-color: cyan;
+}
+
+#content {
+	background-color: yellow;
+}
+
+#footer {
+	background-color: orange;
+}
