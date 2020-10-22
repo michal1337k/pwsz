@@ -2,7 +2,12 @@ body {
 	font-family: Roboto, sans-serif;
 	background-color: #eee;
 }
-
+#all {
+	background-color: #dedede;
+	margin-left: 20%;
+	margin-right: 20%;
+	box-shadow: 0 0 10px rgba(0,0,0,0.3);
+}
 #logo {
 	background-color: red;
 }
@@ -12,7 +17,9 @@ body {
 }
 
 #sidebar {
+	float: right;
 	background-color: cyan;
+	width: 20%;
 }
 
 #content {
